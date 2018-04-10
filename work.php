@@ -1,7 +1,8 @@
 <?php
 
-
 phpinfo();
+
+echo "salut!";
 
 
 
